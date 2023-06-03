@@ -1,0 +1,19 @@
+{
+  "name": "gameplus_service",
+  "version": "1.0.0",
+  "description": "START",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gameplusai/webservice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gameplusai/webservice/issues"
+  },
+  "homepage": "https://github.com/gameplusai/webservice#readme"
+}
